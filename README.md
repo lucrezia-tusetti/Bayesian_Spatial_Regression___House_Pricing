@@ -17,6 +17,8 @@ Additionally, the analysis reveals that smaller apartments, such as studios, ten
 
 Overall, these statistical tools offer a reliable way to understand and navigate the complex real estate market in Milan.
 
+[dataset - Milan Housing Prices](https://www.kaggle.com/datasets/amroaskar/milan-housing-prices)
+
 ## ⚙️ Methods
 
 The study applies several advanced statistical methods, primarily within a Bayesian framework, to predict house prices in Milan. 
